@@ -1,31 +1,62 @@
-# Medical AI Learning Journey
+# Medical Imaging AI Learning Portfolio
 
-This repository records my learning journey in Python,
-data science, and medical imaging AI.
 
-## Learning Goals
+## About This Project
 
-- Python programming
-- Data analysis
-- Medical image processing
-- Deep learning for medical imaging
+This repository documents my learning journey in
+medical imaging AI, deep learning, and quantitative image analysis.
 
-## Current Progress
 
-### Python Basics
-- Variables
-- Conditional statements
-- Loops
-- Functions
+## Research Interest
 
-### Data Analysis
+My research interest focuses on:
+
+- Artificial intelligence in medical imaging
+- Image segmentation
+- Quantitative analysis of 000 imaging
+- AI-assisted rehabilitation applications
+
+
+## Learning Roadmap
+
+### 01 Python Fundamental
+
+Python programming foundation.
+
+
+### 02 Scientific Computing
+
 - NumPy
 - Pandas
 - Matplotlib
 
-## Future Goals
+
+### 03 Medical Image Processing
+
+- OpenCV
+- DICOM
+- Image preprocessing
+
+
+### 04 Deep Learning
 
 - PyTorch
-- MONAI
+- CNN
+- Model training
+
+
+### 05 MONAI Medical AI
+
 - Medical image segmentation
-- AI-assisted diagnosis
+- AI model evaluation
+
+
+### 06 Research Projects
+
+AI-based medical image analysis projects.
+
+
+
+## Author
+
+Liao Yu-Bo

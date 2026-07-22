@@ -1,0 +1,9 @@
+# Medical imaging datasets
+06_research_projects/brain_MRI_segmentation_AI/data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
